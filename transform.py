@@ -1,0 +1,1 @@
+nx.write_graphml(G,'network.graphml')
